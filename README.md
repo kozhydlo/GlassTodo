@@ -17,13 +17,11 @@
 
 <br>
 
-<!-- Add your screenshots here -->
-<!-- 
-<img src="screenshots/home-light.png" width="200" />
-<img src="screenshots/home-dark.png" width="200" />
-<img src="screenshots/detail.png" width="200" />
-<img src="screenshots/stats.png" width="200" />
--->
+<img src="screenshots/home-light.png" width="200" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="screenshots/home-dark.png" width="200" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="screenshots/detail.png" width="200" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="screenshots/stats.png" width="200" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
 
 </div>
 
@@ -190,19 +188,6 @@ All mutations auto-save immediately. No manual save action needed.
 
 ---
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| `home-light.png` | Home screen, light theme, with tasks |
-| `home-dark.png` | Home screen, dark theme |
-| `detail.png` | Task detail with subtasks |
-| `stats.png` | Statistics screen |
-| `add-task.png` | Add task sheet |
-| `onboarding.png` | Onboarding flow |
-| `confetti.png` | Confetti celebration moment |
-
----
 
 ## Roadmap
 
