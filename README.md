@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="screenshots/logo.png" width="120" />
-</p>
+<img src="screenshots/logo.png" width="600" style="border-radius: 18px; margin-bottom: 10px;" />
 
 # GlassTodo
 
