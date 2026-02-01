@@ -1,6 +1,10 @@
 <div align="center">
 
-# ✅ GlassTodo
+<p align="center">
+  <img src="screenshots/logo.png" width="120" />
+</p>
+
+# GlassTodo
 
 **A production-grade iOS task manager built with SwiftUI & MVVM**
 
